@@ -13,12 +13,9 @@ wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh &
 
 
 ### ARM beta使用方法
-<details><summary>ARM beta使用方法</summary>
-##ARM
 ```
 wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/armbox.sh && chmod +x box.sh && clear && ./box.sh
 ```
-</details>
 
 # 功能表
 
