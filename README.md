@@ -10,8 +10,6 @@ https://www.blueskyxn.com/202105/4585.html
 ```
 wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
 ```
-
-
 ### ARM beta使用方法
 ```
 wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/armbox.sh && chmod +x armbox.sh && clear && ./armbox.sh
