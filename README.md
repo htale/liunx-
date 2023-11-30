@@ -7,9 +7,9 @@ https://www.blueskyxn.com/202104/4465.html
 https://www.blueskyxn.com/202105/4585.html
 
 ## 使用方法
-
+```
 wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
-
+```
 <pre>wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh</pre>
 
 ### ARM beta使用方法
